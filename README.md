@@ -3,10 +3,15 @@
 A Python app that gets stock data from the Alpha Vantage API and shows it as a chart in your web browser.
 
 What it does
+
 Asks for a stock symbol (for example IBM)
+
 Asks for a chart type (Bar or Line)
+
 Asks for a time series (Intraday, Daily, Weekly or Monthly)
+
 Asks for a begin date and an end date (YYYY-MM-DD)
+
 Opens the chart in your default browser
 
 Setup
