@@ -10,7 +10,7 @@ Asks for a begin date and an end date (YYYY-MM-DD)
 Opens the chart in your default browser
 
 Setup
-Get a free API key at https://www.alphavantage.co/support/#api-key
+Get a free API key.
 Download or clone this repo and open the folder in a terminal.
 Install the packages:
    pip install -r requirements.txt
